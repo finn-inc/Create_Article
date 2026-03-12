@@ -1,0 +1,22 @@
+[
+  {"query": "さっきXで@AnthropicAIがClaude 4.5のベンチマーク結果ポストしてたんだけど、これ記事にしたい。URLはhttps://x.com/AnthropicAI/status/xxxで、個人的にはSWE-bench Verifiedのスコアがやばいと思ってる", "should_trigger": true},
+  {"query": "技術記事書きたいんだけど、OpenAIが昨日発表したGPT-5の件。社内Slackの#timesでも盛り上がってて、夕会でも話題になった。エンジニア採用に繋がる切り口で書けないかな", "should_trigger": true},
+  {"query": "kiji お願い。ネタはGoogle DeepMindのGemini 2.5 Proの件。コピペ本文はあとで貼る", "should_trigger": true},
+  {"query": "finn.devの記事案として、Robloxが生成AIをゲーム開発に統合した話を書きたい。SES出身のエンジニアに刺さるような切り口で。ソースはこのニュース記事: https://example.com/roblox-ai", "should_trigger": true},
+  {"query": "記事作成。テーマはClaude Codeのエージェント機能について。自分の使用体験も交えて、受託開発者が自社プロダクト開発に活かせる観点で書きたい", "should_trigger": true},
+  {"query": "articleを1本お願いしたい。xAIのGrok 3がオープンウェイト化された件で、Xで結構バズってる。純粋バズ狙いでテック層全体にリーチしたい", "should_trigger": true},
+  {"query": "今週のAIニュースまとめて記事にしたいんだけど、@OpenAIと@GoogleAIの動きが特に面白かった。ポンテベッキオっぽい文体で、構造的に分析する感じの記事にしたい", "should_trigger": true},
+  {"query": "記事を書く。AIコーディングツールの比較記事。Cursor vs Claude Code vs GitHub Copilotで、実際に使ってみた所感をベースに。個人の想いとしては「Claude Codeが圧倒的」ということを伝えたい", "should_trigger": true},
+  {"query": "技術記事のネタがあるんだけど、SESエンジニアの市場価値について。Xで「SES 3年目 転職」で検索するとめちゃくちゃ共感ツイートが出てくる。これを採用ブランディングに繋げたい", "should_trigger": true},
+  {"query": "新しい記事を作りたい。テーマはMCPの衝撃。Anthropicが出したModel Context Protocolがエンジニアの働き方をどう変えるか、という切り口。速報×利害分析でいきたい", "should_trigger": true},
+  {"query": "このXの投稿の内容を要約して教えて。https://x.com/AnthropicAI/status/xxx リンク先の主要なポイントを箇条書きでまとめてほしい", "should_trigger": false},
+  {"query": "さっき書いた記事のドラフトがNotionにあるんだけど、レビューしてもらえる？誤字脱字チェックと、論理の飛躍がないか確認してほしい", "should_trigger": false},
+  {"query": "このPRのdescription書いて。認証機能のJWT実装で、middleware追加とトークンリフレッシュのエンドポイント追加がメインの変更点", "should_trigger": false},
+  {"query": "README.mdを作成してほしい。このプロジェクトのセットアップ手順、環境変数の説明、APIエンドポイント一覧を含めて", "should_trigger": false},
+  {"query": "Slackの#generalに投稿するメッセージを考えて。来週の社内LT大会の告知で、テーマは「AI活用事例」。カジュアルなトーンで", "should_trigger": false},
+  {"query": "この英語のブログ記事を日本語に翻訳して。https://example.com/blog/ai-trends-2026 技術用語はそのまま残してほしい", "should_trigger": false},
+  {"query": "Notionのデータベースに新しいページを追加したい。プロジェクト管理用のタスクで、タイトルは「認証基盤リファクタリング」、ステータスは「未着手」", "should_trigger": false},
+  {"query": "Zennに投稿する技術解説記事のMarkdownフォーマットを整えて。すでに本文は書いてあるから、見出しレベルの調整とコードブロックのシンタックスハイライト指定だけお願い", "should_trigger": false},
+  {"query": "SEO対策としてこの記事のメタディスクリプションとOGPタグを生成して。記事URLはhttps://finn.dev/blog/xxx", "should_trigger": false},
+  {"query": "社内の技術ブログ（Confluence）に書く週報テンプレートを作って。今週やったこと・来週やること・困っていることの3セクション構成で", "should_trigger": false}
+]
